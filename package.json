@@ -4,13 +4,9 @@
 	"private": true,
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
-		"link": "node node_modules/react-native/local-cli/cli.js link",
 		"test": "jest"
 	},
 	"dependencies": {
-		"mobile-center": "^0.9.0",
-		"mobile-center-analytics": "^0.9.0",
-		"mobile-center-crashes": "^0.9.0",
 		"react": "15.4.1",
 		"react-native": "0.39.0"
 	},
