@@ -6,6 +6,9 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.2.0'
+        compile project(':mobile-center-crashes')
+        compile project(':mobile-center-analytics')
+        compile project(':mobile-center')
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files

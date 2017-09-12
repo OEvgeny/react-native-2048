@@ -24,6 +24,10 @@
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
+		7295E10B08CD4D0A900FAE8F /* libRNMobileCenter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1529FE6E2AA14BB3B3A91A17 /* libRNMobileCenter.a */; };
+		0FA8E7B1D9C642AF9ACBEFC5 /* MobileCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8A744F658B8E4BF7AD994826 /* MobileCenter-Config.plist */; };
+		73C6FAB33672428A9B59CB3A /* libRNAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4921FA5CEBCE4959BED8004C /* libRNAnalytics.a */; };
+		63D189AF70B04A81821F3F76 /* libRNCrashes.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 153EF7928658447984E9C430 /* libRNCrashes.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
